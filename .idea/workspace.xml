@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14b2da79-2f21-4d0a-8175-43995bfb8859" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,19 +16,23 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="166" column="16" lean-forward="true" selection-start-line="166" selection-start-column="16" selection-end-line="166" selection-end-column="16" />
+            <state relative-caret-position="17">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding>
-                <marker date="1562040711558" expanded="false" signature="8027:8032" ph="&amp;" />
-                <marker date="1562040711558" expanded="false" signature="9566:9571" ph="&amp;" />
-                <marker date="1562040711558" expanded="false" signature="9779:9784" ph="&amp;" />
-                <marker date="1562040711558" expanded="false" signature="10734:10739" ph="&amp;" />
+                <element signature="n#div#0;n#div#1;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fab</find>
+      <find>skill</find>
+      <find>click he</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -75,6 +79,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -86,8 +92,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -125,11 +129,12 @@
       <workItem from="1559516018215" duration="193000" />
       <workItem from="1562039951880" duration="2000" />
       <workItem from="1562115351440" duration="485000" />
+      <workItem from="1574084431717" duration="8286000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3039000" />
+    <option name="totallyTimeSpent" value="11325000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -172,10 +177,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1562040711558" expanded="false" signature="8027:8032" ph="&amp;" />
-            <marker date="1562040711558" expanded="false" signature="9566:9571" ph="&amp;" />
-            <marker date="1562040711558" expanded="false" signature="9779:9784" ph="&amp;" />
-            <marker date="1562040711558" expanded="false" signature="10734:10739" ph="&amp;" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -185,10 +187,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1562040711558" expanded="false" signature="8027:8032" ph="&amp;" />
-            <marker date="1562040711558" expanded="false" signature="9566:9571" ph="&amp;" />
-            <marker date="1562040711558" expanded="false" signature="9779:9784" ph="&amp;" />
-            <marker date="1562040711558" expanded="false" signature="10734:10739" ph="&amp;" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -198,10 +197,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1562040711558" expanded="false" signature="8027:8032" ph="&amp;" />
-            <marker date="1562040711558" expanded="false" signature="9566:9571" ph="&amp;" />
-            <marker date="1562040711558" expanded="false" signature="9779:9784" ph="&amp;" />
-            <marker date="1562040711558" expanded="false" signature="10734:10739" ph="&amp;" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -211,23 +207,35 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1562040711558" expanded="false" signature="8027:8032" ph="&amp;" />
-            <marker date="1562040711558" expanded="false" signature="9566:9571" ph="&amp;" />
-            <marker date="1562040711558" expanded="false" signature="9779:9784" ph="&amp;" />
-            <marker date="1562040711558" expanded="false" signature="10734:10739" ph="&amp;" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="166" column="16" lean-forward="true" selection-start-line="166" selection-start-column="16" selection-end-line="166" selection-end-column="16" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1562040711558" expanded="false" signature="8027:8032" ph="&amp;" />
-            <marker date="1562040711558" expanded="false" signature="9566:9571" ph="&amp;" />
-            <marker date="1562040711558" expanded="false" signature="9779:9784" ph="&amp;" />
-            <marker date="1562040711558" expanded="false" signature="10734:10739" ph="&amp;" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="125" column="30" lean-forward="true" selection-start-line="125" selection-start-column="30" selection-end-line="125" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
